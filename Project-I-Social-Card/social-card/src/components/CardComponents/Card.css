@@ -1,7 +1,10 @@
 /* All styles for your Card Components live here */
 .cardcontainer {
-    margin: 10px;
-    padding-left: 90px;
+    margin: 10px 10px 20px 90px;
+    padding-bottom: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+
 }
 
 .cardcontainer .cardbanner {
@@ -13,6 +16,9 @@
     
 }
 
+.cardcontent {
+    padding: 0 5px;
+}
 .cardcontent a {
     color: grey;
     text-decoration: none;
