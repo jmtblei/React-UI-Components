@@ -33,6 +33,7 @@
     height: 100%;
     font-size: 2.5rem;
     background-color: white;
+    font-weight: 700;
 }
 
 .actioncontainer {
@@ -47,7 +48,9 @@
 .actioncomponent {
     height:20%;
 }
+
 .actions {
     background-color: darkred;
     color: white;
+    font-weight: 200;
 }
