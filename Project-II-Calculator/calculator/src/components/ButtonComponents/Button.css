@@ -1,0 +1,53 @@
+.buttonscontainer {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.gridcontainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.zeroclearcomponent {
+    width: 100%;
+    height: 100px;
+}
+
+.zcbutton {
+    width: 100%;
+    height: 100%;
+    font-size: 2.5rem;
+    background-color: white;
+}
+
+.numberscomponent {
+    width: 33.3%;
+    height: 100px;
+}
+
+.button {
+    width: 100%;
+    height: 100%;
+    font-size: 2.5rem;
+    background-color: white;
+}
+
+.actioncontainer {
+    width: 100px;
+}
+
+.actioncolumn {
+    width: 100%;
+    height: 100%;
+}
+
+.actioncomponent {
+    height:20%;
+}
+.actions {
+    background-color: darkred;
+    color: white;
+}
