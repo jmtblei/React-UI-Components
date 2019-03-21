@@ -1,0 +1,9 @@
+.displaycomponent {
+    width: 99.5%;
+    height: 100px;
+    border: 2px solid grey;
+    background-color: rgb(34, 33, 33);
+    color: white;
+    font-size: 5rem;
+    text-align: right;
+}

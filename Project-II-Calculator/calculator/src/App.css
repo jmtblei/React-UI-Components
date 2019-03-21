@@ -1,0 +1,6 @@
+.calculatorcontainer {
+    max-width: 500px;
+}
+.allbuttonscontainer {
+    display: flex;
+}
